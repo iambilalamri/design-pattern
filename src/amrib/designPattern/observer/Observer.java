@@ -1,0 +1,5 @@
+package amrib.designPattern.observer;
+
+public interface Observer {
+	void update(String message);
+}
