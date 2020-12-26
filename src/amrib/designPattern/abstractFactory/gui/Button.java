@@ -1,4 +1,4 @@
-package amrib.designPattern.abstractFactory;
+package amrib.designPattern.abstractFactory.gui;
 
 /**
  * Abstract Factory assumes that you have several families of products,

@@ -1,4 +1,4 @@
-package amrib.designPattern.abstractFactory;
+package amrib.designPattern.abstractFactory.gui;
 
 /**
  * Abstract factory knows about all (abstract) product types.

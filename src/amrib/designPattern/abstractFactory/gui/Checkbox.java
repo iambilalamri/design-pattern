@@ -1,4 +1,4 @@
-package amrib.designPattern.abstractFactory;
+package amrib.designPattern.abstractFactory.gui;
 
 /**
  * Checkboxes is the second product family. It has the same variants as buttons.
