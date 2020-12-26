@@ -1,4 +1,4 @@
-package amrib.designPattern.factory;
+package amrib.designPattern.factory.shape;
 
 public class Square implements Shape {
 
