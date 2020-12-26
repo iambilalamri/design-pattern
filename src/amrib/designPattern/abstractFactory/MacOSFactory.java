@@ -15,4 +15,10 @@ public class MacOSFactory implements GUIFactory {
     public Checkbox createCheckbox() {
         return new MacOSCheckbox();
     }
+
+	@Override
+	public Label createLabel() {
+		// TODO Auto-generated method stub
+		return new MacOSLabel();
+	}
 }
