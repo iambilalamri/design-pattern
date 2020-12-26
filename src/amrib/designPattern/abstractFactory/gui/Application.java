@@ -1,4 +1,4 @@
-package amrib.designPattern.abstractFactory;
+package amrib.designPattern.abstractFactory.gui;
 
 /**
  * Factory users don't care which concrete factory they use since they work with

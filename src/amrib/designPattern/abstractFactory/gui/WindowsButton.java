@@ -1,4 +1,4 @@
-package amrib.designPattern.abstractFactory;
+package amrib.designPattern.abstractFactory.gui;
 
 /**
  * All products families have the same varieties (MacOS/Windows).

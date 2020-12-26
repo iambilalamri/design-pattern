@@ -14,3 +14,6 @@ Fabrique est un patron de conception de création qui définit une interface pour 
 
 ## Pattern Abstract Factory
 Fabrique abstraite est un patron de conception qui permet de créer des familles d’objets apparentés sans préciser leur classe concrète.
+
+## Pattern Observer
+L’Observateur est un patron de conception comportemental qui permet de mettre en place un mécanisme de souscription pour envoyer des notifications à plusieurs objets, au sujet d’événements concernant les objets qu’ils observent.
