@@ -2,6 +2,10 @@ package amrib.designPattern.factory.logistic;
 
 public class AirLogistic implements Logistics {
 
+	private Long id;
+	private String stationName;
+	private Double surface;
+
 	@Override
 	public void createTransport() {
 		// TODO Auto-generated method stub

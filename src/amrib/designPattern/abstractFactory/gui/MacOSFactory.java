@@ -18,7 +18,6 @@ public class MacOSFactory implements GUIFactory {
 
 	@Override
 	public Label createLabel() {
-		// TODO Auto-generated method stub
 		return new MacOSLabel();
 	}
 }
