@@ -1,5 +1,15 @@
 package amrib.designPattern.abstractFactory.furniture;
 
-public class FurnitureFactory {
+/**
+ * Abstract Factory
+ * 
+ * @author bilal
+ *
+ */
+public interface FurnitureFactory {
+	Chair createChair();
 
+	CoffeTable createCoffeTable();
+
+	Sofa createSofa();
 }
