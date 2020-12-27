@@ -2,7 +2,7 @@ package amrib.designPattern.abstractFactory.furniture;
 
 public class ModernCoffeTable implements CoffeTable {
 
-	int legs = 4;
+	int legs = 3;
 
 	@Override
 	public void make() {

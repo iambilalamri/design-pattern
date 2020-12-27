@@ -2,7 +2,7 @@ package amrib.designPattern.abstractFactory.furniture;
 
 public class ModernSofa implements Sofa {
 
-	int pilliers = 4;
+	int pilliers = 3;
 
 	@Override
 	public void make() {
