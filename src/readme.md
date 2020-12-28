@@ -17,3 +17,6 @@ Fabrique abstraite est un patron de conception qui permet de créer des familles 
 
 ## Pattern Observer
 L’Observateur est un patron de conception comportemental qui permet de mettre en place un mécanisme de souscription pour envoyer des notifications à plusieurs objets, au sujet d’événements concernant les objets qu’ils observent.
+
+## Pattern Singleton 
+Singleton est un patron de conception de création qui garantit que l’instance d’une classe n’existe qu’en un seul exemplaire, tout en fournissant un point d’accès global à cette instance.
