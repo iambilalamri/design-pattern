@@ -20,3 +20,11 @@ L’Observateur est un patron de conception comportemental qui permet de mettre en
 
 ## Pattern Singleton 
 Singleton est un patron de conception de création qui garantit que l’instance d’une classe n’existe qu’en un seul exemplaire, tout en fournissant un point d’accès global à cette instance.
+
+## Pattern Prototype
+Prototype est un patron de conception qui crée de nouveaux objets à partir d’objets existants sans rendre le code dépendant de leur classe, et il evite le couplage fort.
+[couplage](https://waytolearnx.com/2020/03/difference-entre-couplage-faible-et-couplage-fort-en-java.html)
+
+
+## Pattern Builder
+Monteur est un patron de conception de création qui permet de construire des objets complexes étape par étape. Il permet de produire différentes variations ou représentations d’un objet en utilisant le même code de construction.
