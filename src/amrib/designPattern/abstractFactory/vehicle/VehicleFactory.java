@@ -1,7 +1,5 @@
 package amrib.designPattern.abstractFactory.vehicle;
 
-import javax.sound.midi.Track;
-
 import amrib.designPattern.factory.vehicle.VehicleTypeNotFoundException;
 
 public abstract class VehicleFactory {
