@@ -1,4 +1,4 @@
-package amrib.designPattern.factory.vehicule;
+package amrib.designPattern.factory.vehicle;
 
 public class Truck implements Vehicle {
 	
