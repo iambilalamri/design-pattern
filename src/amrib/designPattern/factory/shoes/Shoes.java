@@ -1,4 +1,4 @@
-package amrib.designPattern.abstractFactory.shoes;
+package amrib.designPattern.factory.shoes;
 
 public interface Shoes {
 	void make();
