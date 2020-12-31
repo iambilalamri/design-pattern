@@ -16,6 +16,7 @@ public abstract class ShoesFactory {
 
 		if (factoryType == null)
 			return null;
+
 		switch (factoryType) {
 		case "sport":
 			if (sportShoesFactory == null)
@@ -31,7 +32,6 @@ public abstract class ShoesFactory {
 			throw new ShoesTypeNotFoundException();
 		}
 		return shoesFactory;
-
 	}
 
 }
