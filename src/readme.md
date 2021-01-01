@@ -35,3 +35,18 @@ Autrement dit: Decouple an abstraction from its implementation so that the two c
 
 ## Difference between Pont and Adapter
 The main difference between an adaptor and a bridge pattern, is that a bridge pattern serves to decouple an abstraction class from its implementation, and an adaptor pattern converts the interface between classes with less inheritance.
+
+## Pattern Composite
+Composite est un patron de conception structurel qui permet d’agencer les objets dans des arborescences afin de pouvoir traiter celles-ci comme des objets individuels.
+
+## Pattern Decorator
+Décorateur est un patron de conception structurel qui permet d’affecter dynamiquement de nouveaux comportements à des objets en les plaçant dans des emballeurs qui implémentent ces comportements.
+
+## Pattern Façade
+Façade est un patron de conception structurel qui procure une interface offrant un accès simplifié à une librairie, un framework ou à n’importe quel ensemble complexe de classes.
+
+## Pattern Flyweight
+Poids mouche est un patron de conception structurel qui permet de stocker plus d’objets dans la RAM en partageant les états similaires entre de multiples objets, plutôt que de stocker les données dans chaque objet.
+
+## Pattern Proxy
+La Procuration est un patron de conception structurel qui vous permet d’utiliser un substitut pour un objet. Elle donne le contrôle sur l’objet original, vous permettant d’effectuer des manipulations avant ou après que la demande ne lui parvienne.
