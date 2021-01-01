@@ -5,7 +5,7 @@ public class TotalDirectEnergie implements EnergieProvider {
 	@Override
 	public void engagedWith() {
 		// TODO Auto-generated method stub
-		System.out.println(" Total SE");
+		System.out.println(" Total Direct Energie");
 	}
 
 }
