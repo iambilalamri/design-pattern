@@ -35,3 +35,7 @@ Autrement dit: Decouple an abstraction from its implementation so that the two c
 
 ## Difference between Pont and Adapter
 The main difference between an adaptor and a bridge pattern, is that a bridge pattern serves to decouple an abstraction class from its implementation, and an adaptor pattern converts the interface between classes with less inheritance.
+
+## Pattern Composite
+Composite est un patron de conception structurel qui permet d’agencer les objets dans des arborescences afin de pouvoir traiter celles-ci comme des objets individuels.
+
