@@ -28,3 +28,7 @@ Prototype est un patron de conception qui crée de nouveaux objets à partir d’obj
 
 ## Pattern Builder
 Monteur est un patron de conception de création qui permet de construire des objets complexes étape par étape. Il permet de produire différentes variations ou représentations d’un objet en utilisant le même code de construction.
+
+## Pattern Pont (Bridge)
+Le Pont est un patron de conception structurel qui permet de séparer une grosse classe ou un ensemble de classes connexes en deux hiérarchies — abstraction et implémentation — qui peuvent évoluer indépendamment l’une de l’autre.<br/>
+Autrement dit: Decouple an abstraction from its implementation so that the two can vary independently
