@@ -1,5 +1,19 @@
 package amrib.designPattern.structural.bridge.remote;
 
-public class Devise {
+public interface Devise {
+
+	void isEnable();
+
+	void enable();
+
+	void disable();
+
+	void getVolume();
+
+	void setVolume(int percent);
+
+	void getChannel();
+
+	void setChannel(int channel);
 
 }
