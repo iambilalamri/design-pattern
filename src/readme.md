@@ -37,7 +37,8 @@ Autrement dit: Decouple (separate) an abstraction from its implementation so tha
 The main difference between an adaptor and a bridge pattern, is that a bridge pattern serves to decouple an abstraction class from its implementation, and an adaptor pattern converts the interface between classes with less inheritance.
 
 ## Pattern Composite
-Composite est un patron de conception structurel qui permet d’agencer les objets dans des arborescences afin de pouvoir traiter celles-ci comme des objets individuels.
+Composite est un patron de conception structurel qui permet d’agencer (organiser) les objets dans des arborescences afin de pouvoir traiter celles-ci comme des objets individuels.<br/>
+Le Client manipule les objets de la composition à travers l'interface de la classe Composant
 
 ## Pattern Decorator
 Décorateur est un patron de conception structurel qui permet d’affecter dynamiquement de nouveaux comportements à des objets en les plaçant dans des emballeurs qui implémentent ces comportements.
